@@ -1,6 +1,6 @@
 I'm Portuguese teenager who likes to code.
 
-I've also got a [website](https://alexandrebl.com) and an [Itch.io page](https://alexandrebl.itch.io/).
+I've also got a [website](https://alexandrebl.com) and an [Itch.io](https://alexandrebl.itch.io/) page.
 
 You can also email me at alexandrebl@protonmail.com.
 
