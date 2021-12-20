@@ -4,4 +4,4 @@ I've also got a [website](https://alexandrebl.com) and an [Itch.io](https://alex
 
 You can also email me at alexandrebl@protonmail.com.
 
-*P.S.: Sorry for the bad commit messages you are bound to see if you decide to explore my profile because none of the code here is necessarily even working, think of it more as a backup.*
+*P.S.: Sorry for the bad commit messages you are bound to see if you decide to explore my profile, none of the code here is necessarily even working, think of it more as a backup.*
